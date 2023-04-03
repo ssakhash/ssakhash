@@ -1,6 +1,7 @@
 # 💫 About Me:
-Graduate Student at the University of Illinois at Chicago. Passionate about Machine Learning algorithms. Skilled in linear algebra, probability and statistics.
+As a graduate student specializing in machine learning engineering, I have 5+ years of experience with Python and over 3+ years of experience with machine learning algorithms and frameworks such as PyTorch and TensorFlow. My GitHub repository contains various projects that demonstrate my expertise in machine learning, including projects related to computer vision, natural language processing, and deep learning. 
 
+I'm always excited to collaborate and contribute to open-source projects, so feel free to reach out if you have any ideas or projects in mind!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ssakhash) 
