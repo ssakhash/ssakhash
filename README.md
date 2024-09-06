@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a graduate student specializing in machine learning engineering, I have 5+ years of experience with Python and over 3+ years of experience with machine learning algorithms and frameworks such as PyTorch and TensorFlow. My GitHub repository contains various projects that demonstrate my expertise in machine learning, including projects related to computer vision, natural language processing, and deep learning.
+I have 5+ years of experience with Python and over 3+ years of experience with machine learning algorithms and frameworks such as PyTorch and TensorFlow. My GitHub repository contains various projects that demonstrate my expertise in machine learning, including projects related to computer vision, natural language processing, and deep learning.
 
 I'm always excited to collaborate and contribute to open-source projects, so feel free to reach out if you have any ideas or projects in mind!
 
